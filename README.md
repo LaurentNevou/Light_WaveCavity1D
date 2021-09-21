@@ -1,5 +1,4 @@
 # Light_WaveCavity1D
-Computes eigen frequencies in a 1D micro-cavity
 
 This program computes the solutions of the Maxwell s equations in a resonant micro-cavity using FDM and PWE methods. The light is propagating in the y or z direction, meaning, parallel to the screen.
 
