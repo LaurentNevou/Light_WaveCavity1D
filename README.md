@@ -5,4 +5,4 @@ This program computes the solutions of the Maxwell s equations in a resonant mic
 
 => If you like it, don't forget the star!
 
-![VCSEL_result](https://user-images.githubusercontent.com/35040499/134243344-0751dbe1-b2f0-445e-81d7-c07329abe219.PNG)
+![VCSEL_result](https://user-images.githubusercontent.com/35040499/134243641-34d1b72e-55b4-4a45-9c52-7a9165d6c3e1.PNG)
